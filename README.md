@@ -1,4 +1,4 @@
 # gitHub-demo
 This is my first repo
 <br>
-Author - Saniya
+Author - Saniya H M
